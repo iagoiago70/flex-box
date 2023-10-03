@@ -1,0 +1,10 @@
+.item1{
+background-color: aliceblue;
+flex: 1 1 200px;
+}
+
+.item2{
+background-color: rgb(red, green, blue);
+flex: 1 1 200px;
+
+}
